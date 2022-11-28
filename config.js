@@ -13,7 +13,7 @@ global.prems = ['6285221780016'] //-
 global.nameowner = 'Rizky'
 global.numberowner = '6285221780016' //-
 global.instagram = 'Gk Ad Bwang:v' //-
-global.github = 'https://github.com/Bot-Mdnew' //-
+global.github 'https://github.com/Rizky12010/Rizky' //-
 global.tt = '"_"' //-
 global.sc = '-' //-
 global.ss = '-' //-
